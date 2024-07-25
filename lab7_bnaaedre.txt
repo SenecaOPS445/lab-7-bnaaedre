@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab7.py
+=================================================================
+    User login name: codespace
+    Linux system name: codespaces-176388
+    Python executable: /home/codespace/.python/current/bin/python3
+    Python version: 31013
+    OS Platform: linux
+    Working Directory: /workspaces/lab-7-bnaaedre
+    Start at: Thu Jul 25 00:06:40 2024
+=================================================================
